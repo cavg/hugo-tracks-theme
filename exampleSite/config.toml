@@ -31,33 +31,6 @@ googleAnalytics = ""
      # - you're done. Happy mailing!
   email = "you@yoursite.com"
 
-  # Nav links in the side bar
-  [[menu.main]]
-    url = "/"
-    name = "Inicio"
-    weight = 1
-    title = "Inicio"
-
-  [[params.navlinks]]
-      url = "/quienes-somos/"
-      name = "Quienes Somos"
-      weight = 2
-
-  [[params.navlinks]]
-      url = "/servicios/"
-      name = "Servicios"
-      weight = 3
-
-  [[params.navlinks]]
-      url = "/contacto/"
-      name = "Contáctanos"
-      weight = 4
-
-  [[params.navlinks]]
-      url = "/ubicacion/"
-      name = "Ubicación"
-      weight = 5
-
 
   [params.social]
   facebook      = "full page or profile url in facebook"
